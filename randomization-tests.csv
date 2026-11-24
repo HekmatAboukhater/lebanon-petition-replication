@@ -1,0 +1,5 @@
+"design","n","frozen_records","individually_reassigned","clustered_records","reassigned_clusters","estimate_pp","sharp_null_p"
+"All records, realized sex margins, ambiguous block fixed",2496,16,1696,784,98,-20.1923076923077,7.34641048763908e-22
+"Omit ambiguous block, realized sex margins",2480,0,1696,784,98,-20.1612903225806,1.13714217154767e-21
+"All records, PSU margins only, ambiguous block fixed",2496,16,1696,784,98,-20.1923076923077,1.02989344114505e-21
+"Unambiguous cluster-assigned blocks only",784,0,0,784,98,-16.3265306122449,0.00430819164548
